@@ -1,0 +1,14 @@
+{
+    "C_Cpp.default.cppStandard": "c++17",
+    "files.associations": {
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "__tree": "cpp",
+        "bitset": "cpp",
+        "set": "cpp",
+        "__tuple": "cpp",
+        "tuple": "cpp",
+        "algorithm": "cpp"
+    }
+}
